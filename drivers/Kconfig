@@ -223,4 +223,7 @@ source "drivers/p73-spi/Kconfig"
 
 
 source "drivers/lindroid-drm/Kconfig
+
+
+source "drivers/lindroid-drm/Kconfig
 endmenu
